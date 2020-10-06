@@ -1,5 +1,10 @@
-# Hello 🌏
+# Tüpograafia lingid
 
-To edit the document, click **Edit**.
+Loodetavasti areneb õppematerjaliks
 
-To learn more, see https://designstem.github.io/fachwerk/docs/
+https://fontsinuse.com/
+https://www.losttype.com/browse/
+https://gt-eesti.com/
+https://type.method.ac/
+https://fontstruct.com/
+https://fonts.google.com/
