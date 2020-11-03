@@ -27,8 +27,8 @@ https://graphicdesign.stackexchange.com/questions/2588/what-characters-are-good-
 2. Kui on olemas juba väiketähed, suurtähed ja võib-olla ka täpitähed (alt vasakust nurgast Basic Latin) (ja numbrid - mida rohkem, seda parem), ekspordi oma font endale kasutamiseks arvutisse
 3. Mõtle oma fondile sobiv nimi!
 4. Valmista oma fonti kasutades illustraatoris tüpograafiline näidisplakat, mis sisaldab fondi nime, mõnd sõna (vabal valikul), tähestikku ja autorit! *vt joonis 1*
-Pööra tähelepanu tähevahedele e. **kerningule** -> vt https://design.tutsplus.com/tutorials/understanding-auto-optical-and-metrics-kerning-in-adobe-illustrator--cms-21679
-ja https://youtu.be/m7miv0wy8Sc?t=28
+Pööra tähelepanu tähevahedele e. **kerningule** -> vt <f-link to="https://design.tutsplus.com/tutorials/understanding-auto-optical-and-metrics-kerning-in-adobe-illustrator--cms-21679">seda artiklit</f-link>
+ja <f-link to="https://youtu.be/m7miv0wy8Sc?t=28">seda videot</f-link>
 Kindlasti aitab alguses Kerning -> optical, kui ise käsitsi ei viitsi!
 Formaat: A3
 Tähtaeg: Üldiselt võiks nagu täna jõuda, aga eks siis vaatame üle, kui tagasi olen
