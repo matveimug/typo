@@ -26,8 +26,9 @@ https://graphicdesign.stackexchange.com/questions/2588/what-characters-are-good-
 1. Loo font keskkonnas https://fontstruct.com/. Alusta väiketähtedest, kui jõuad, valmista ka suurtähed. Mõningad nipid - Lülita sisse Expert mode, siis saad Shift-klahvi ja nooleklahvidega 'piksleid' vähehaaval nihutada. Paljud tähed või nende elemendid korduvad, või sisaldavad samu elemente, näiteks u on tagurpidi n, d on tagurpidi p jne! Leia need korduvad elemendid üles, kopeerimine toimib! Copy-da saab lihtsalt klaviatuuril C vajutades, Paste-da V vajutades. Vahepeal vaata Preview-alt (enter), kuidas kogu tähestik välja näeb, proovi kirjutada ka sõnu!
 2. Kui on olemas juba väiketähed, suurtähed ja võib-olla ka täpitähed (alt vasakust nurgast Basic Latin) (ja numbrid - mida rohkem, seda parem), ekspordi oma font endale kasutamiseks arvutisse
 3. Mõtle oma fondile sobiv nimi!
-4. Valmista oma fonti kasutades illustraaris tüpograafiline näidisplakat, mis sisaldab fondi nime, mõnd sõna (vabal valikul), tähestikku ja autorit! *vt joonis 1*
+4. Valmista oma fonti kasutades illustraatoris tüpograafiline näidisplakat, mis sisaldab fondi nime, mõnd sõna (vabal valikul), tähestikku ja autorit! *vt joonis 1*
 Formaat: A3
+Tähtaeg: Üldiselt võiks nagu täna jõuda, aga eks siis vaatame üle, kui tagasi olen
 
 -
 
